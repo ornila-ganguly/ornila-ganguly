@@ -1,3 +1,5 @@
+![logo](https://github.com/data-analyst-dream/ornila-ganguly/blob/ornila-ganguly/ornila%20ganguly%20Data%20Analyst%20Cover%20Image.png)
+
 <h1 align="center">Hi 👋, I'm Ornila Ganguly</h1>
 <h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
