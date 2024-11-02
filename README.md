@@ -32,6 +32,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-analyst-dream&show_icons=true&locale=en" alt="data-analyst-dream" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-analyst-dream&" alt="data-analyst-dream" /></p>
+
+
